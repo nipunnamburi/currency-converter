@@ -1,5 +1,5 @@
 
-# HELP – Currency Converter API
+# Currency Converter API
 
 This document explains **how to set up, run, and test** the Currency Converter API locally.
 
