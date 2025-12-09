@@ -1,17 +1,4 @@
-Perfect 👍
-Below is a **single, clean, public-safe `HELP.md` file** you can directly commit to GitHub.
 
-✅ **No secrets leaked**
-✅ Uses placeholders only
-✅ Safe for public repositories
-✅ Recruiter / evaluator friendly
-✅ Clear step-by-step instructions
-
-You can **copy–paste this whole file as `HELP.md`**.
-
----
-
-````markdown
 # HELP – Currency Converter API
 
 This document explains **how to set up, run, and test** the Currency Converter API locally.
